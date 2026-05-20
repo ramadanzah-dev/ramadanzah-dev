@@ -30,8 +30,4 @@ Seorang Web Developer & Tech Enthusiast yang tertarik dengan pengembangan aplika
 - 📧 Email: [ramadanzah205@gmail.com](mailto:ramadanzah205@gmail.com)
 - 🌐 Portofolio: [portfolio-ramadanzah-dev.vercel.app](https://portfolio-ramadanzah-dev.vercel.app/)
 
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramadanzah-dev&show_icons=true&theme=dark&hide_border=true" alt="Statistik GitHub Ramadanzah" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramadanzah-dev&layout=compact&theme=dark&hide_border=true" alt="Bahasa Terbanyak" width="300"/>
-</p>
+
