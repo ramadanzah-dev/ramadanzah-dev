@@ -34,7 +34,8 @@ Seorang Web Developer & Tech Enthusiast yang tertarik dengan pengembangan aplika
 
 ---
 
-### 📊 Aktivitas GitHub
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramadanzah-dev&theme=dark&hide_border=true" alt="GitHub Streak" />
+### 📊 Statistik Akun
+<p align="left">
+  <img src="https://img.shields.io/github/followers/ramadanzah-dev?label=Followers&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/ramadanzah-dev/my-portofolio?style=social" alt="Stars" />
 </p>
