@@ -13,15 +13,13 @@ Seorang Web Developer & Tech Enthusiast yang tertarik dengan pengembangan aplika
 ---
 
 ### 🛠️ Tech Stack & Alat
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Laravel/Blade](https://img.shields.io/badge/Laravel/Blade-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+- **Bahasa & Framework:** HTML, CSS, PHP (Blade)
+- **Teknologi:** Internet of Things (IoT), Sensor Integration
+- **Alat & Platform:** Git, GitHub, Vercel
 
 ---
 
-### 📌 Repositori Utama
+### 📌 Repositori Unggulan
 - 📁 **[my-portofolio](https://github.com/ramadanzah-dev/my-portofolio)** - Website Portofolio pertama saya yang dibangun menggunakan Blade.
 - 🌐 **[portfolio-ramadanzah-dev](https://portfolio-ramadanzah-dev.vercel.app/)** - Website pribadi resmi yang di-deploy di Vercel.
 - 💡 **[website-pintarkan](https://github.com/ramadanzah-dev/website-pintarkan)** - Proyek IoT yang menjelaskan perangkat sensor dan pemanfaatannya.
@@ -33,9 +31,7 @@ Seorang Web Developer & Tech Enthusiast yang tertarik dengan pengembangan aplika
 - 🌐 Portofolio: [portfolio-ramadanzah-dev.vercel.app](https://portfolio-ramadanzah-dev.vercel.app/)
 
 ---
-
-### 📊 Statistik Akun
-<p align="left">
-  <img src="https://img.shields.io/github/followers/ramadanzah-dev?label=Followers&style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/ramadanzah-dev/my-portofolio?style=social" alt="Stars" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ramadanzah-dev&show_icons=true&theme=dark&hide_border=true" alt="Statistik GitHub Ramadanzah" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramadanzah-dev&layout=compact&theme=dark&hide_border=true" alt="Bahasa Terbanyak" width="300"/>
 </p>
